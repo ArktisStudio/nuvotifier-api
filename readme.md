@@ -94,4 +94,4 @@ server.on('error', (err) => {
 
 This library is inspired by the original NuVotifier plugin for Minecraft, and it is designed to work with the [NuVotifier2](https://www.spigotmc.org/resources/nuvotifier.13449/) protocol. The original plugin was created by the [NuVotifier team](https://github.com/NuVotifier).
 
-Made By [Gabidut76](https://github.com/gabidut) 🇫🇷 for [ArktisStudio](https://github.com/ArktisStudio)
+Made By [Gabidut76](https://github.com/gabidut) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png" width="15px"> for [ArktisStudio](https://github.com/ArktisStudio)
