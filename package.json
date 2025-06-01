@@ -1,8 +1,8 @@
 {
   "name": "nuvotifier-api",
   "version": "1.0.0",
-  "description": "A simple API for handling Votifier events like a Bukkit server.",
-  "main": "demo.js",
+  "description": "A simple API for handling NuVotifier events like a Bukkit server.",
+  "main": "NuVotifier.js",
   "author": {
     "email": "arktis.scp@gmail.com",
     "name": "Arktis Studios / Gabidut76",
@@ -13,7 +13,9 @@
   },
   "private": false,
   "repository": {
-    "url": ""
+    "url": "https://github.com/ArktisStudio/nuvotifier-api",
+    "directory": "nuvotifier-api",
+    "type": "git"
   },
   "dependencies": {
     "fs": "^0.0.1-security"
