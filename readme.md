@@ -6,7 +6,7 @@ This lib only support the new NuVotifier2 protocol.
 To use the NuVotifier API, you have to init a socket and listen for incoming votes. Here is an example of how to do that:
 
 ```javascript
-const NuVotifier2Server = require("node-nuvotifier2");
+const NuVotifier2Server = require("nuvotifier-api");
 
 let server = new NuVotifier2Server(options, platforms);
 server.handleServer().then(r => {
@@ -72,6 +72,8 @@ server.on("vote", (vote) => {
 
 ### Full Example
 ```javascript
+const NuVotifier2Server = require("nuvotifier-api");
+
 let server = new NuVotifier2Server({
     port: 8192,
     tokenFile: './NuVotifier2.json',
