@@ -1,0 +1,18 @@
+{
+  "name": "votifier-api",
+  "version": "1.0.0",
+  "description": "A simple API for handling Votifier events like a Bukkit server.",
+  "main": "index.js",
+  "author": {
+    "email": "arktis.scp@gmail.com",
+    "name": "Arktis Studios / Gabidut76",
+    "url": "https://github.com/ArktisStudio/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false,
+  "repository": {
+    "url": ""
+  }
+}
